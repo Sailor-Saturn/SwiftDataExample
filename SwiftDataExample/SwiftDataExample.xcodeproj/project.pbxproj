@@ -73,6 +73,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0B8685A42BE938FD00C9EDDD /* Friends - Insert Data */ = {
+			isa = PBXGroup;
+			children = (
+				0B9421042BE9213400068C20 /* ContentView.swift */,
+				0B9421022BE9213400068C20 /* SwiftDataExampleApp.swift */,
+			);
+			path = "Friends - Insert Data";
+			sourceTree = "<group>";
+		};
 		0B9420F62BE9213400068C20 = {
 			isa = PBXGroup;
 			children = (
@@ -96,8 +105,7 @@
 		0B9421012BE9213400068C20 /* SwiftDataExample */ = {
 			isa = PBXGroup;
 			children = (
-				0B9421022BE9213400068C20 /* SwiftDataExampleApp.swift */,
-				0B9421042BE9213400068C20 /* ContentView.swift */,
+				0B8685A42BE938FD00C9EDDD /* Friends - Insert Data */,
 				0B9421062BE9213600068C20 /* Assets.xcassets */,
 				0B9421082BE9213600068C20 /* Preview Content */,
 				0B94212C2BE9215F00068C20 /* Friend.swift */,
